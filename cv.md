@@ -2,10 +2,10 @@
 ***
 ## ***Vladislav Demin***
 ***
-Moscow, Russia
-e-mail: [TouchX701@yandex.ru](TouchX701@yandex.ru)
-Telegram: TouchX7
-Phone number: +7(977)646-80-69 (Viber,WhatsApp)
+* Moscow, Russia
+* e-mail: [TouchX701@yandex.ru](TouchX701@yandex.ru)
+* Telegram: TouchX7
+* Phone number: +7(977)646-80-69 (Viber,WhatsApp)
 ***
 ### About Me:
 I came to Moscow from the city of Perm to study here at a university. I am a very purposeful person and I want to be successful in life. Also I have an analytical mindset and creativity in one bottle:). Because My specialty disappointed me, I decided to do self-education and chose the front-end. 
